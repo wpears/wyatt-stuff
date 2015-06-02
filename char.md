@@ -32,11 +32,24 @@ water, food, herbs, and natural tools provided they exist in your surroundings.
 You have a knack for finding animal trails and river crossings.
 
 **Backstory:** My family was part of a small band of travelling players who performed
-for town festivals. One night travelling a rural route
+for town festivals. One night traveling a rural route
 
 **Languages:** Common, Druidic, Auran, Sylvan. Literacy is poor in all but Druidic. 
 
+**Hit Die:** 1d8
+
 **Speed:** 30
 
-**Skill Proficiencies:**
+**Feats:** War caster
 
+####Proficiencies
+**Skills:** Nature, Survival, Animal Handling, Insight, Perception
+
+**Saving throws:** Intelligence, Wisdom
+
+**Armor:** Light and medium armor, shields (no metal)
+
+**Weapons:** Clubs, daggers, darts, javelins, maces, quarterstaffs, scimitars, sickles, slings, spears
+  - Prefers not to use metal weapons
+
+**Tools:** Herbalism Kit (improvised)
