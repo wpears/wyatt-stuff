@@ -56,6 +56,8 @@ Speed: 30
 
 Feats: War caster
 
+Cantrips: Produce Flame, Gust
+
 Proficiencies
  - Skills: Nature, Survival, Animal Handling, Insight, Perception
 
@@ -77,6 +79,7 @@ Equipment:
     - Two waterskins
     - Herbalism Kit
     - Healer's Kit
+    - Component Pouch
     - 3 flasks
   - Bear tooth necklace
   - Owl and eagle feathers woven into reed and twig bracers
